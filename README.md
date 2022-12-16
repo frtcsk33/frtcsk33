@@ -22,18 +22,9 @@
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="30" height="30">
 
 
-
-
-[<h2 align="center">My GitHub Stats :bar_chart:</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=frtcsk33&show_icons=true&theme=tokyonight" width="450" height="180">
-  <br />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frtcsk33&layout=compact&theme=tokyonight" height="180">](url)
-  
   
   ## <summary>:bulb: Github Stats</summary>
-<img src="https://github-readme-stats.vercel.app/api?username=frtcsk33&theme=dark" >
+<img src="https://github-readme-stats.vercel.app/api?username=frtcsk33&theme=tokyonight" >
 
 
 <br />
@@ -41,7 +32,7 @@
   
 
   ## <summary>:bulb:  Most Used Languages</summary>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frtcsk33&layout=compact&theme=dark" >
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frtcsk33&layout=compact&theme=tokyonight" >
 
   
   
