@@ -21,7 +21,8 @@
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="30" height="30">
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="30" height="30">
 
-
+<br />
+<br />
   
   ## <summary>:bulb: Github Stats</summary>
 <img src="https://github-readme-stats.vercel.app/api?username=frtcsk33&theme=tokyonight" >
