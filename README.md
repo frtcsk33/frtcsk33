@@ -12,6 +12,8 @@
 <br />
 
 
+
+
 ## Languages
 
 <img align="left" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" width="30" height="30">
@@ -25,6 +27,8 @@
 <h2 align="center">My GitHub Stats :bar_chart:</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=frtcsk33&show_icons=true&theme=tokyonight" width="450" height="180">
+  <br />
+  <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frtcsk33&layout=compact&theme=tokyonight" height="180">
 
 
