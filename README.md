@@ -24,14 +24,27 @@
 
 
 
-<h2 align="center">My GitHub Stats :bar_chart:</h2>
+[<h2 align="center">My GitHub Stats :bar_chart:</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=frtcsk33&show_icons=true&theme=tokyonight" width="450" height="180">
   <br />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frtcsk33&layout=compact&theme=tokyonight" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frtcsk33&layout=compact&theme=tokyonight" height="180">](url)
+  
+  
+  ## <summary>:bulb: Github Stats</summary>
+<img src="https://github-readme-stats.vercel.app/api?username=frtcsk33&theme=dark" >
 
 
+<br />
+<br />
+  
+
+  ## <summary>:bulb:  Most Used Languages</summary>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frtcsk33&layout=compact&theme=dark" >
+
+  
+  
 
 
 [instagram]: https://www.instagram.com/c.frat/
