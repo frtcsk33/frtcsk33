@@ -1,6 +1,6 @@
 ### Hi there, I'm Fırat. :blush: 
 
-## I'm a student who wants to learn more about programming.
+## I'm a Junior Full-Stack Developer who wants to learn more about programming.
 
 ## Reach out to me
 
