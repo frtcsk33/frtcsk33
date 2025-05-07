@@ -28,15 +28,15 @@
 <br />
   
   ## <summary>:bulb: Github Stats</summary>
-<img src="https://github-readme-stats.vercel.app/api?username=frtcsk3&theme=tokyonight" >
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=frtcsk33&theme=tokyonight" >
+
 
 <br />
 <br />
   
 
   ## <summary>:bulb:  Most Used Languages</summary>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frtcsk3&layout=compact&theme=tokyonight" >
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frtcsk33&layout=compact&theme=tokyonight" >
 
   
   
