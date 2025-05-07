@@ -26,24 +26,11 @@
 <img align="left" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/cpp/cpp.png" width="30" height="30">
 <br />
 <br />
-  
-[  ## <summary>:bulb: Github Stats</summary>
-<img src="https://github-readme-stats.vercel.app/api?username=frtcsk33&theme=tokyonight" >
-
-
-<br />
-<br />
-  
-
-  ## <summary>:bulb:  Most Used Languages</summary>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frtcsk33&layout=compact&theme=tokyonight" >
-](url)
-  
+    
   
 
 
 [instagram]: https://www.instagram.com/c.frat/
-[twitter]: https://twitter.com/Fratc33
 [Linkedin]: https://www.linkedin.com/in/firatcoskunn/
 
 
