@@ -1,6 +1,6 @@
 ### Hi there, I'm Fırat. :blush: 
 
-## I'm a Junior Full-Stack Developer who wants to learn more about programming.
+## I'm a Junior Full-Stack Developer with a growing skill set in .NET, JavaScript, HTML, and CSS. I enjoy creating clean, user-friendly web applications and learning how to build better, more efficient solutions every day.
 
 ## Reach out to me
 
