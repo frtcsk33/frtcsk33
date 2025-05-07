@@ -27,7 +27,7 @@
 <br />
 <br />
   
-  ## <summary>:bulb: Github Stats</summary>
+[  ## <summary>:bulb: Github Stats</summary>
 <img src="https://github-readme-stats.vercel.app/api?username=frtcsk33&theme=tokyonight" >
 
 
@@ -37,7 +37,7 @@
 
   ## <summary>:bulb:  Most Used Languages</summary>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frtcsk33&layout=compact&theme=tokyonight" >
-
+](url)
   
   
 
